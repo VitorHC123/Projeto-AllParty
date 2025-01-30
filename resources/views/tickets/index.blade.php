@@ -3,7 +3,7 @@
 
 
     <!-- ***** About Us Page ***** -->
-    <div class="page-heading-shows-events">
+    <div class="page-heading-tickets-image">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
